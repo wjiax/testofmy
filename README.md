@@ -1,4 +1,0 @@
-testofmy
-========
-
-just a test
